@@ -88,6 +88,7 @@ class Landing extends React.Component {
                         The design system comes with four pre-built pages to
                         help you get started faster. You can change the text and
                         images and you're good to go.
+                        <i class="fas fa-code">r23r3r32</i>
                       </p>
                       <div className="btn-wrapper">
                         <Button

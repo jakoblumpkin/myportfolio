@@ -263,14 +263,14 @@ class DemoNavbar extends React.Component {
                     <Button
                       className="btn-neutral btn-icon"
                       color="default"
-                      href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-navbar"
+                      href="#"
                       target="_blank"
                     >
                       <span className="btn-inner--icon">
-                        <i className="fa fa-cloud-download mr-2" />
+                      <i class="fas fa-code"></i>
                       </span>
                       <span className="nav-link-inner--text ml-1">
-                        Download
+                        See Projects
                       </span>
                     </Button>
                   </NavItem>
